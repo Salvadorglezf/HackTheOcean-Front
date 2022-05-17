@@ -91,8 +91,8 @@ Ve al enlace siguiente: <a href="https://hackocean.azurewebsites.net/">https://h
 ## Creditos
 
 * Daniel Mares Backend
-* Fernando Hernandez Backend
 * Elí Gasca Salomon Frontend Backend
+* Fernando Hernandez Backend
 * Jesus Salvador Gonzalez 
 * Sergio Bruno Ramirez Frontend
 
